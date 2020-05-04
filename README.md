@@ -1,2 +1,2 @@
-# Trabalho-Pr-tico-II---Curvas-Param-tricas
+# Trabalho-Prático-II---Curvas-Paramétricas
 ![alt text](/descricao.png)
